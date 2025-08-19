@@ -69,7 +69,7 @@ Genera el ejecutable de producción en `build/bin/`.
 - GitHub: https://github.com/Moisessantos45
 
 ## 📜 Licencia
-Este proyecto se distribuye con fines educativos/demostrativos. Ajusta la licencia según tus necesidades.
+Este proyecto se distribuye con fines educativos/demostrativos.
 
 ## 📝 Notas
 - La configuración de proyecto se encuentra en `wails.json`.
